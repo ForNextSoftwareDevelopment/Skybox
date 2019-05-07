@@ -1,5 +1,5 @@
 # Skybox
-Simple tool to cut out separate textures from a single (cube)texture (saved in .bmp format for use in 3dEngine) 
+Tool to cut out separate textures from a single (cube)texture (saved in .bmp format for use in 3dEngine) 
 
 Copyright (c) 2018 Dirk Prins
 
